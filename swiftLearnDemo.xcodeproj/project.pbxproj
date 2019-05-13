@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		028812AB2289ACC900ECC14A /* CollectionPrettyCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 028812A92289ACC900ECC14A /* CollectionPrettyCell.swift */; };
 		02944D102288F80900CD6753 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02944D0F2288F80900CD6753 /* AppDelegate.swift */; };
 		02944D122288F80900CD6753 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02944D112288F80900CD6753 /* ViewController.swift */; };
 		02944D152288F80900CD6753 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 02944D132288F80900CD6753 /* Main.storyboard */; };
@@ -28,6 +29,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		028812A92289ACC900ECC14A /* CollectionPrettyCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionPrettyCell.swift; sourceTree = "<group>"; };
 		02944D0C2288F80900CD6753 /* swiftLearnDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = swiftLearnDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		02944D0F2288F80900CD6753 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		02944D112288F80900CD6753 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -167,6 +169,7 @@
 			children = (
 				02EA6BDB22891CCF009B28CA /* PageTitleView.swift */,
 				02EA6BDD22893C1B009B28CA /* CollectionBaseCell.swift */,
+				028812A92289ACC900ECC14A /* CollectionPrettyCell.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -307,6 +310,7 @@
 				02EA6BCF228909EF009B28CA /* netWorkTools.swift in Sources */,
 				02EA6BC822890588009B28CA /* NSDate-Extension.swift in Sources */,
 				02944D122288F80900CD6753 /* ViewController.swift in Sources */,
+				028812AB2289ACC900ECC14A /* CollectionPrettyCell.swift in Sources */,
 				02EA6BDC22891CCF009B28CA /* PageTitleView.swift in Sources */,
 				02EA6BD222890C9D009B28CA /* BaseGameModel.swift in Sources */,
 				02EA6BD622890E7D009B28CA /* AnchorModel.swift in Sources */,
